@@ -1,0 +1,2 @@
+Let us create a stream from the file !
+Let's Go !
